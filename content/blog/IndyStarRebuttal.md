@@ -42,8 +42,9 @@ The Indy Star article singled out Indiana as the state with the most polluted, d
 
 A consequence of having more river miles assessed is that the likelihood of detecting problems increases. If states monitor fewer river miles, their chances of identifying one as impaired for any desired use is also small - in other words, if you don’t go looking for it, you won’t find it!
 
+[extra]
 images = "http://localhost:3000/static/IndyStarGraphic.png"
-
+---
 The graph above is a scatterplot showing a point for all 50 states (except Ohio) that represents the number of impaired river miles on the horizontal axis and river miles assessed on the vertical axis. The red point is Indiana. 
 
 As you can see by this graphic, Indiana does not top the charts in the total number of river miles impaired for any use, but it does rank high in the total number of river miles assessed for any designated use.
@@ -52,8 +53,9 @@ Indeed, Indiana has a rigorous water monitoring program throughout the state, an
 
 If we focus on just the St. Joseph River Basin, which encompasses nearly 5,000 square miles shared between northern Indiana and southern Michigan that drains to Lake Michigan, we can see a strong, cross-organizational effort to monitor water quality. The St. Joseph River Basin Commission (SJRBC) was formed in the late 1980s by the General Assembly to study E. coli in the St. Joseph River in response to public health concerns over high E. coli levels in the river. This also happened to be during a time when there was a lot of positive energy surrounding white water kayaking on the river, as South Bend is famous for its East Race Water Course.
 
+[extra]
 images = "http://localhost:3000/static/South-Bend-East-Race.jpg"
-
+---
 Over thirty years later, the SJRBC and many other agencies working in the basin have worked hard on characterizing the health of the waterways that drain to Lake Michigan. In just our basin alone, we have extensive data on E. coli, nutrients, fish, macroinvertebrates, flow, land use changes - all of which are needed to assess overall water quality and watershed health. Like the rest of Indiana, we are surrounded by a significant area of agricultural land, but we also have urban and industrial areas that also contribute to water quality issues.
 
 A watershed framework tells us that we are all part of the problem of nonpoint source pollution, not just agriculture. In this watershed philosophy, each of us lives upstream and downstream of something or someone else, which means we need to work together and meet people where they are, and not call out entire groups or sectors for negligence. 
