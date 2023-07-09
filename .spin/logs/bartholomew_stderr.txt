@@ -1,0 +1,162 @@
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Handler returned an error: Rendering "/content/index.md": Operation not permitted (os error 63)
+Request path: /favicon.ico
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/favicon.md
+Handler returned an error: Operation not permitted (os error 63)
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /favicon.ico
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/favicon.md
+Not found: /favicon.ico
+Request path: /blog/newjob
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog/newjob.md
+Responded: /blog/newjob
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /blog/GeneralEcology
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog/GeneralEcology.md
+Responded: /blog/GeneralEcology
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /favicon.ico
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/favicon.md
+Not found: /favicon.ico
+Request path: /blog/newjob
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog/newjob.md
+Responded: /blog/newjob

@@ -6,7 +6,7 @@ index_site_pages = ["main", "blog"]
 
 [extra]
 copyright = "Dr. Katherine L. Barrett, Ph.D."
-github = "https://github.com/fermyon"
-twitter = "https://twitter.com/fermyontech"
+github = "https://github.com/Limnogirl90/environmental-science-blog"
+# twitter = "https://twitter.com/fermyontech"
 
 date_style = "%B %e, %Y"
