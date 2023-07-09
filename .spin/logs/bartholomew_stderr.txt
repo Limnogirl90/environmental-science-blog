@@ -184,3 +184,65 @@ scripts: registering blogs
 scripts: registering get_page
 Path /content/blog/GeneralEcology.md
 Responded: /blog/GeneralEcology
+Request path: /blog/GeneralEcology
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog/GeneralEcology.md
+Responded: /blog/GeneralEcology
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /favicon.ico
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/favicon.md
+Not found: /favicon.ico
+Request path: /blog/GeneralEcology
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog/GeneralEcology.md
+Responded: /blog/GeneralEcology
+Request path: /blog/GeneralEcology
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog/GeneralEcology.md
+Responded: /blog/GeneralEcology
+Request path: /blog/GeneralEcology
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog/GeneralEcology.md
+File "/content/blog/protons.md": TOML parsing error: input contains invalid characters for key `date` at line 2 column 8
+Responded: /blog/GeneralEcology
+Request path: /blog/
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog.md
+Responded: /blog/
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /blog/GeneralEcology
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog/GeneralEcology.md
+File "/content/blog/protons.md": TOML parsing error: input contains invalid characters for key `date` at line 2 column 8
+Responded: /blog/GeneralEcology
+Request path: /blog/newjob
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog/newjob.md
+Responded: /blog/newjob
