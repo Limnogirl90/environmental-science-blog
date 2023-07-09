@@ -350,3 +350,10 @@ scripts: registering blogs
 scripts: registering get_page
 Path /content/blog/IndyStarRebuttal.md
 Responded: /blog/IndyStarRebuttal
+Request path: /blog/IndyStarRebuttal
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog/IndyStarRebuttal.md
+File "/content/blog/WatershedPost.md": TOML parsing error: newline in string found at line 5 column 129
+Responded: /blog/IndyStarRebuttal
