@@ -330,3 +330,10 @@ scripts: registering blogs
 scripts: registering get_page
 Path /content/favicon.md
 Not found: /favicon.ico
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+File "/content/blog/WatershedPost.md": TOML parsing error: newline in string found at line 5 column 129
+Responded: /index

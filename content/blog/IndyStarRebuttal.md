@@ -42,5 +42,31 @@ The Indy Star article singled out Indiana as the state with the most polluted, d
 
 A consequence of having more river miles assessed is that the likelihood of detecting problems increases. If states monitor fewer river miles, their chances of identifying one as impaired for any desired use is also small - in other words, if you don’t go looking for it, you won’t find it!
 
+images = "http://localhost:3000/static/IndyStarGraphic.png"
+
+The graph above is a scatterplot showing a point for all 50 states (except Ohio) that represents the number of impaired river miles on the horizontal axis and river miles assessed on the vertical axis. The red point is Indiana. 
+
+As you can see by this graphic, Indiana does not top the charts in the total number of river miles impaired for any use, but it does rank high in the total number of river miles assessed for any designated use.
+
+Indeed, Indiana has a rigorous water monitoring program throughout the state, and through the Hoosier Riverwatch Program, volunteer evaluators can monitor any stream and submit data to the Indiana Department of Environmental Management. Furthermore, Indiana is unique in that it is one of only a handful of states that has river basin commissions, entities that exist to provide a forum for the discussion, study, and evaluation of water resource issues. Indiana has four river basin commissions: the Kankakee and Yellow River Basin Watershed Development Commission, Maumee, Upper Wabash, and St. Joseph River Basin Commission. 
+
+If we focus on just the St. Joseph River Basin, which encompasses nearly 5,000 square miles shared between northern Indiana and southern Michigan that drains to Lake Michigan, we can see a strong, cross-organizational effort to monitor water quality. The St. Joseph River Basin Commission (SJRBC) was formed in the late 1980s by the General Assembly to study E. coli in the St. Joseph River in response to public health concerns over high E. coli levels in the river. This also happened to be during a time when there was a lot of positive energy surrounding white water kayaking on the river, as South Bend is famous for its East Race Water Course.
+
+images = "http://localhost:3000/static/South-Bend-East-Race.jpg"
+
+Over thirty years later, the SJRBC and many other agencies working in the basin have worked hard on characterizing the health of the waterways that drain to Lake Michigan. In just our basin alone, we have extensive data on E. coli, nutrients, fish, macroinvertebrates, flow, land use changes - all of which are needed to assess overall water quality and watershed health. Like the rest of Indiana, we are surrounded by a significant area of agricultural land, but we also have urban and industrial areas that also contribute to water quality issues.
+
+A watershed framework tells us that we are all part of the problem of nonpoint source pollution, not just agriculture. In this watershed philosophy, each of us lives upstream and downstream of something or someone else, which means we need to work together and meet people where they are, and not call out entire groups or sectors for negligence. 
+
+In fact, how can we point the finger at nonpoint source pollution, when it is a diffuse and chronic problem with multiple sources?
+
+Instead, acknowledging that we contribute to this collective issue that stems from decades of intensive land use - hardening of the land, draining wetlands, rushing the water off the fields, off the sidewalks, channelizing rivers and streams, the list goes on - and finding out about the progress, will move us forward. For example, the St. Joseph River in the early 1900s had only 3 species of fish documented, and now, researchers are finding upwards of 80 species. In our basin, efforts to improve water quality start small but add up: pervious pavement, grassed swales, rain gardens, two-stage ditches, cover crops.
+
+There is no doubt, Indiana can do better when it comes to water quality. But we are certainly not the only state that sees room for improvement! And, instead of focusing on the negative aspects of our rivers, it is time to highlight the successes. Calling out our water as dirty may inspire outrage and perhaps a short lived call to action, but it does not engender appreciation and respect for our water resources. Furthermore, the short-sightedness of the article ignored the even greater repercussions of dirty water in Indiana: that our dirty water has to go somewhere. And depending on the stream’s location in the watershed, that water goes to the Great Lakes or the Gulf of Mexico, contributing to ongoing problems such as harmful algae blooms and dead zones.
+
+To conclude, Indiana may have topped the charts in the number of river miles impaired for water contact recreation, but that is because Indiana is following EPA requirements to monitor water. Indiana joins the ranks of other progressive states who are taking the lead on getting a handle on the severity and extent of water resource issues, and without such monitoring, problems may not become visible in the media headlines, but they are very real. 
+
+The first step to solving a problem is acknowledging that the problem exists. The steps that follow are up to each of us, not to point fingers at others when deep down we know we are all part of the problem, and that we each are part of the solution.
+
 
 
