@@ -1,11 +1,11 @@
-title = ""
+title = "Take that Indy Star"
 date = "2023-07-09T16:31:11.972817Z"
 template = "blog"
 tags = []
-description = "How Pollution in East Palestine, Ohio Could Affect Gators in the Bayou and Drinking Water in Parts of the South""
+description = "How Misinterpreting EPA data can create animosity"
 
 [extra]
-author = "Brandon Bowman"
+author = "Kate Barrett"
 type = "post"
 twitter_card_type = "summary_large_image" 
 images = "http://localhost:3000/static/IndyStarGraphic.png"
