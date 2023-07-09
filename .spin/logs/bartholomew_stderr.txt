@@ -246,3 +246,87 @@ scripts: registering blogs
 scripts: registering get_page
 Path /content/blog/newjob.md
 Responded: /blog/newjob
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /blog/protons
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog/protons.md
+Responded: /blog/protons
+Request path: /favicon.ico
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/favicon.md
+Not found: /favicon.ico
+Request path: /blog/protons
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog/protons.md
+Responded: /blog/protons
+Request path: /favicon.ico
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/favicon.md
+Not found: /favicon.ico
+Request path: /blog/protons
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog/protons.md
+Responded: /blog/protons
+Request path: /favicon.ico
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/favicon.md
+Not found: /favicon.ico
+Request path: /blog/
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog.md
+Responded: /blog/
+Request path: /blog/protons
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog/protons.md
+Responded: /blog/protons
+Request path: /blog/protons
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog/protons.md
+Responded: /blog/protons
+Request path: /blog/protons
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog/protons.md
+Responded: /blog/protons
+Request path: /blog/protons
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/blog/protons.md
+Responded: /blog/protons
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/index.md
+Responded: /index
+Request path: /favicon.ico
+Base URL: Some("http://localhost:3000")
+scripts: registering blogs
+scripts: registering get_page
+Path /content/favicon.md
+Not found: /favicon.ico
