@@ -8,7 +8,7 @@ description = "How Misinterpreting EPA data can create animosity"
 author = "Kate Barrett"
 type = "post"
 twitter_card_type = "summary_large_image" 
-images = "http://localhost:3000/static/IndyStarGraphic.png"
+images = "/static/IndyStarGraphic.png"
 
 ---
 
