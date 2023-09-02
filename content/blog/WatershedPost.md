@@ -2,7 +2,7 @@ title = "What Goes Up, Must Come Down…Stream"
 date = "2023-07-09T16:31:11.972817Z"
 template = "blog"
 tags = []
-description = "How Pollution in East Palestine, Ohio Could Affect Gators in the Bayou and Drinking Water in Parts of the South""
+description = "How Pollution in East Palestine, Ohio Could Affect Gators in the Bayou and Drinking Water in Parts of the South"
 
 [extra]
 author = "Brandon Bowman"
