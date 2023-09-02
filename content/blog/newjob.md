@@ -1,13 +1,13 @@
 title = "Watershed Research"
-date = "September 1, 2023"
+date = "2023-07-09T16:31:11.972817Z"
 template = "blog"
 tags = []
-description = ""
+description = "Learning how to live & teach upstream & downstream"
 
 [extra]
 type = "post"
 author = ""
-images = ""
+images = "summary_large_image"
 
 ---
 
