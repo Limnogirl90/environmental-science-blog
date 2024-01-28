@@ -9,7 +9,7 @@ author = "Brandon Bowman"
 type = "post"
 twitter_card_type = "summary_large_image" 
 images = ""
-
+alttext = ""
 ---
 
 <!-- Ideally, for SEO there should be an image after the first paragraph or two -->

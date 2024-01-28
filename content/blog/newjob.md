@@ -8,7 +8,7 @@ description = "Learning how to live & teach upstream & downstream"
 type = "post"
 author = ""
 images = "summary_large_image"
-
+alttext = " "
 ---
 
 
