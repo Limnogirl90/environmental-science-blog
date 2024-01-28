@@ -1,4 +1,4 @@
-title = "Human Ecology Fall 2023"
+title = "Environmental Science & Public Health Courses Taught"
 date = "2023-07-09T14:17:36.693706300Z"
 template = "blog"
 tags = []
@@ -6,10 +6,10 @@ tags = []
 [extra]
 author = "Dr. B"
 type = "post"
-
+alttext = " "
 ---
 
-## Welcome to Human Ecology, Environmental Science, Environmental Sociology!
+## !
 
 These three courses are part of a series of elective courses students can take to fulfill requirements for a minor in Environmental Science and Public Health. I designed these courses to be independent of each other, but they can be taken in sequence as students will build on themes and concepts.
 
