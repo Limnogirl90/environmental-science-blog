@@ -8,7 +8,7 @@ description = "Learning how to teach students the art of data analysis"
 author = "Kate Barrett"
 type = "post"
 twitter_card_type = "summary_large_image" 
-images = "/static/"
+images = ""
 alttext = ""
 ---
 
