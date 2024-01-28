@@ -9,7 +9,7 @@ author = "Kate Barrett"
 type = "post"
 twitter_card_type = "summary_large_image" 
 images = "/static/IndyStarGraphic.png"
-
+alttext = "Graph of the number of stream miles and impaired stream miles for each state."
 ---
 
 <!-- Ideally, for SEO there should be an image after the first paragraph or two -->

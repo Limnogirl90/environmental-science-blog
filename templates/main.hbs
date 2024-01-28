@@ -10,7 +10,7 @@ found under /content/blog.
 {{#each (blogs site.pages)}}
 <div class="col-md-6">
         <div class="cardo shadow-lg" style="display: inline-block;">
-            <img src="{{page.head.extra.images}}" class="card__image" alt="brown couch" />
+            <img src="{{page.head.extra.images}}" class="card__image" alt="{{page.head.extra.alttext}}" />
             <div class="card__content">
                 {{!--
                  `this` refers to the particular post
